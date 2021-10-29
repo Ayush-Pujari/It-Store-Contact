@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-family: Cooper;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    font-size: 18px;
+}
+#m{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 25px;
+}
+ 
+.contact_1 a{
+    color: black;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
+#n{
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+#heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
