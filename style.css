@@ -3,10 +3,6 @@ body{
 }
 a{
     text-decoration: none;
-    font-family: Cooper;
-    font-family: 'Lobster', cursive;
-    font-size: 19px;
-    font-size: 18px;
 }
 #m{
     font-family: 'Bebas Neue', cursive;;
@@ -15,6 +11,7 @@ a{
  
 .contact_1 a{
     color: black;
+    font-family: 'Lobster', cursive;
     text-shadow: none;
 }
 .contact_1 h3{
@@ -27,4 +24,9 @@ a{
 #heading{
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
+}
+#head{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
 }
